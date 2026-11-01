@@ -53,6 +53,6 @@ Project checks: links valid; no scaffold placeholders, added scripts, or .git di
 Skill is valid!
 ```
 
-项目内没有初始化 Git，也没有上传 GitHub。Skill 目录只包含 `SKILL.md` 和 `agents/openai.yaml`；测试资料留在项目根目录的 `tests/` 下。
+Skill 目录只包含 `SKILL.md` 和 `agents/openai.yaml`；测试资料留在项目根目录的 `tests/` 下。
 
 这些测试验证了所列样例的行为；生成结果可能随模型变化，需要在规则或模型变更后重新对照原文复查。结构验证本身不能证明卡片内容正确。
